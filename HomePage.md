@@ -1,3 +1,3 @@
 # Wiki
 
-Hello there
+Hello there. This is a test homepage for the wiki.
