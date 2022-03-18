@@ -10,7 +10,7 @@ Possible Achievements: \
 - It’s probably fine (accept the Mysterious Trader’s offering) \
 - Fire and Anguish [secret] (die to the mysterious trader’s boss) \
 - Fight or flight (Reach maximum Adrenaline) \
-- Not Today, Satan [secret] (Kill the Mysterious Trader) \
+- Not Today, Satan! [secret] (Kill the Mysterious Trader) \
 - To infinity and Beyond (leave the map) \
 - Wrong Way (go underground) \
 - Cryptography (decrypt the game’s lore)
