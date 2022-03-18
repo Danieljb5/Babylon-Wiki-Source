@@ -4,7 +4,7 @@ Possible Achievements: \
 - Lucky break (survive a fall of at least 100m) \
 - Smash and Grab (Break a Pot) \
 - Worth It (Rescue the dog from the top of the tower) \
-- Not worth it (climb back up the tower after rescuing the dog) \
+- Freakin’ Stairs! (climb back up the tower after rescuing the dog) \
 - Impatient (Jump out of the tower just before the end) \
 - Hallelujah (Go through the gates of heaven) \
 - It’s probably fine (accept the Mysterious Trader’s offering) \
