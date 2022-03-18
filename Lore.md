@@ -42,5 +42,3 @@ The player falls and dies \
 \
 \
 Begin Level 3: \
-\
-\
