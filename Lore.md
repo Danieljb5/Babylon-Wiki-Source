@@ -42,7 +42,4 @@ The player falls and dies \
 \
 \
 Trader encounter \
-Begin Level 3: \
-\
-\
-\
+Begin Level 3: 
