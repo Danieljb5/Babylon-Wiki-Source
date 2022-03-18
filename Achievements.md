@@ -13,4 +13,5 @@ Possible Achievements: \
 - Not Today, Satan! [secret] (Kill the Mysterious Trader) \
 - To infinity and Beyond (leave the map) \
 - Wrong Way (go underground) \
-- Cryptography (decrypt the game’s lore)
+- Cryptography (decrypt the game’s lore) \
+- Grubby mits (touch every single different item)
