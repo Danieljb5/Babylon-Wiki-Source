@@ -15,4 +15,5 @@ Possible Achievements: \
 - Wrong Way (go underground) \
 - Cryptography (decrypt the game’s lore) \
 - Grubby mits (touch every single different item) \
-- What Would Jesus Do (complete a pacifist run)
+- What Would Jesus Do (complete a pacifist run) \
+- What Would God Do (kill everything)
