@@ -14,4 +14,5 @@ Possible Achievements: \
 - To infinity and Beyond (leave the map) \
 - Wrong Way (go underground) \
 - Cryptography (decrypt the game’s lore) \
-- Grubby mits (touch every single different item)
+- Grubby mits (touch every single different item) \
+- What Would Jesus Do (complete a pacifist run)
