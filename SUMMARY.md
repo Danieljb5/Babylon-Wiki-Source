@@ -4,7 +4,7 @@
 
 # Lore
 
-[Lore](Lore.md)
-[Settings](Settings.md)
-[Achievements](Achievements.md)
-[Music](Music.md)
+- [Lore](Lore.md)
+- [Settings](Settings.md)
+- [Achievements](Achievements.md)
+- [Music](Music.md)
