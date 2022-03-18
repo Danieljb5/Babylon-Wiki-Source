@@ -36,7 +36,7 @@ Begin Level 2: \
 Same but wObBlY, more floors and more defence \
 Reach boss Who? Destroy a crane on the top floor \
 Drops through the entire tower, destroys it. \
-Confirmed captain Jack Sparrow Moment \
+*Confirmed captain Jack Sparrow Moment* \
 ![Falling](https://github.com/Danieljb5/Babylon-Wiki-Source/blob/main/assets/Funny%20Fall.png?raw=true)<--- Player \
 The player falls and dies \
 \
