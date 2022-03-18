@@ -14,7 +14,7 @@ Player *Is created*
 
 
 Player POV:
-![Trader](https://github.com/Danieljb5/Babylon-Wiki-Source/blob/main/assets/Funny%20Trader.png)<--- Trader
+![Trader](https://github.com/Danieljb5/Babylon-Wiki-Source/blob/main/assets/Funny%20Trader.png?raw=true)<--- Trader
 Trader “This tower is dangerous, anyway off you go”
 *3 random weapons fall out of traders pockets*
 Trader “K cya, oh by the way secret secrets”
