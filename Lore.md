@@ -42,3 +42,13 @@ The player falls and dies \
 \
 \
 Begin Level 3: \
+\
+\
+Current known settings: \
+Desert \
+Something \
+Grass? \
+Medieval? \
+Renaissance? \
+Modern? \
+Matrix Dystopia
