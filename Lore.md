@@ -4,19 +4,19 @@ Well yes, but how about no. \
 
 So anyway \
  \
-God *Exists* \
-Humans *Exist* \
+God \*Exists\* \
+Humans \*Exist\* \
 Humans “so , if we’re down here and gods up there, can we go up?” \
-Humans *Hyperfocus intensifies* \
-God *Sweating* “Someone help” \
-Player *Is created* \
+Humans \*Hyperfocus intensifies\* \
+God \*Sweating\* “Someone help” \
+Player \*Is created\* \
  \
  \
  \
 Player POV: \
 ![Trader](https://github.com/Danieljb5/Babylon-Wiki-Source/blob/main/assets/Funny%20Trader.png?raw=true)<--- Trader \
 Trader “This tower is dangerous, anyway off you go” \
-*3 random weapons fall out of traders pockets* \
+\*3 random weapons fall out of traders pockets\* \
 Trader “K cya, oh by the way secret secrets” \
 Begin level 1: \
 Find lore droplets (tower trying to reach God, set up Trader as an angel) \
