@@ -17,4 +17,7 @@ Possible Achievements: \
 - Grubby mits (touch every single different item) \
 - What Would Jesus Do (complete a pacifist run) \
 - What Would God Do (kill everything) \
-- Inner Peace (be laid to rest)
+- Inner Peace (be laid to rest) \
+- What does this one do again (experience every potion effect) \
+- Heavy drinker (drink 5 potions consecutively) \
+- I need to pee (experience every potion effect at once)
