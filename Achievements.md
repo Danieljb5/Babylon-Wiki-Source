@@ -20,4 +20,5 @@ Possible Achievements: \
 - Inner Peace (be laid to rest) \
 - What does this one do again? (experience every potion effect) \
 - Heavy drinker (drink 5 potions consecutively) \
-- I need to pee (experience every potion effect at once)
+- I need to pee (experience every potion effect at once) \
+- I can see my house from here! (reach the top of the first tower)
